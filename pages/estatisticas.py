@@ -5,9 +5,10 @@ import matplotlib.pyplot as plt
 import os
 from dotenv import load_dotenv
 
+
+
 load_dotenv()
 diretorio = os.getenv("DIRETORIO")
-
 
 
 

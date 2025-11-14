@@ -74,9 +74,9 @@ streamlit run /caminho/para/diario.py --server.port=6510
 
 Abra o navegador e acesse `http://localhost:6510` para visualizar o painel.
 
-Detalhes Importantes
+### Detalhes Importantes
 Dicionário de Cidades: Verifique o dicionário de nomes de cidades no arquivo coletando.py para garantir que todos os nomes de cidades estejam no mesmo padrão utilizado no site de manobras/tickets.
 
 
-Contribuição
+### Contribuição
 Contribuições são bem-vindas! Sinta-se à vontade para abrir issues e pull requests para melhorias, correções de bugs e novas funcionalidades.
